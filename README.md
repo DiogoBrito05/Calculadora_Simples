@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Essa calculadora foi desenvolvida durante um curso da Alura que eu estava participando para adquirir mais experiência na linguagem Dart.#
